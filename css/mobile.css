@@ -1,0 +1,15 @@
+#navbar {
+  flex-direction: column;
+}
+
+#navbar ul li a {
+  padding: 10px 5px;
+}
+
+.flex-item {
+  flex-direction: column;
+}
+
+.row {
+  flex-direction: column;
+}
