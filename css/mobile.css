@@ -13,3 +13,7 @@
 .row {
   flex-direction: column;
 }
+
+.team img {
+  width: 70%;
+}
